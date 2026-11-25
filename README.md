@@ -48,6 +48,3 @@ Topics I plan to practice next:
 - [ ] Events
 - [ ] Basic projects (calculator, to-do list)
 
-## About
-
-I'm a Web Application Development (DAW) student learning to program. I use this repo to track my progress and build the habit of practicing regularly.
